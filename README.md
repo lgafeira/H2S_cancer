@@ -12,6 +12,11 @@ For extracellular metabolites analysis, 30 μL of 3.2 mM TSP and 30 µL of 0.4% 
 1H-NMR spectra were obtained at 25°C in an UltrashieldTM Avance 500 Plus spectrometer (Bruker) equipped with a cryo-prodigy TCI-Z probe, using a noesypr1d pulse program. 
 Spectra were acquired and processed using TopSpin 4.1 software (Bruker) and the assignments were made by resorting to spectral databases: Human Metabolome (HMDB) and Chenomx NMR Suite 8.11 were used to determine the concentration of the metabolites. 
 
-#Files: zip file wirh the NMR spectra; csv files with metabolites quantifications
+#Samples
+
+![image](https://github.com/lgafeira/H2S_cancer/assets/106500/57ebe77f-0ddf-49cd-9dd2-604b2fda4c56)
+
+
+#Files: zip file wirh the NMR spectra; csv files with metabolites quantifications for growth media and methanol/aqueous extracts 
 
 
